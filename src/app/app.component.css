@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 800px;
+  width: 900px;
+}
+
+.item-a {
+  height: 200px;
+  width: 300px;
+  background-color: #a8a3a3;
+  overflow: auto;
+}
